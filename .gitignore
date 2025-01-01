@@ -288,8 +288,15 @@ FakesAssemblies/
 *.GhostDoc.xml
 
 # Node.js Tools for Visual Studio
-.ntvs_analysis.dat
+.ntvs_analysis.dat              
 node_modules/
+
+# Angular Cache
+/.angular/cache
+
+# Build Output
+/dist
+/out-tsc
 
 # Visual Studio 6 build log
 *.plg
